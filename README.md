@@ -7,7 +7,7 @@ A simple API app I created to learn Node
 
 It uses MongoDB, Redis + Passport for Auth
 
-API Exposes a REST API -> Make Sure to add username=foo&password=bar to all requests
+API Exposes a REST API -> Make Sure to add ```username=foo&password=bar``` to all requests for simple Auth
 
 ```
 GET /api/fruits -> creates fruits
